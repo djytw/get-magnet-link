@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Get Magnet Link
 // @namespace    http://blog.djytw.tk/
-// @version      1.0
+// @version      1.1
 // @description  在种子搜索页面上显示磁力链地址！现在支持btso.pw/www.torrentkitty.tv/torrentz2.eu！
 // @author       djytw
 // @match        https://btso.pw/search*
